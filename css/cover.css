@@ -161,3 +161,20 @@ body {
     width: 700px;
   }
 }
+
+
+.mrk1-tt{
+  text-align: center;
+  font-size: 50px;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.header-color{
+  background-color: #346;
+}
+
+
